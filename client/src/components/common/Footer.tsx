@@ -1,7 +1,7 @@
 function Footer() {
     return (
         <footer className="static bottom-1 left-0 flex w-full justify-center sm:fixed">
-            {/* <span>
+            <span>
                 Build with ❤️ by{" "}
                 <a
                     href="https://github.com/sahilatahar"
@@ -9,7 +9,7 @@ function Footer() {
                 >
                     sahilatahar
                 </a>
-            </span> */}
+            </span>
         </footer>
     )
 }
